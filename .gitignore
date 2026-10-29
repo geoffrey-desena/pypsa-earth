@@ -12,15 +12,12 @@
 
 # General untracked file formats
 *.idea
-*.log
 **/pbf
 *.pbf
 *.zip
 *.png
 *.done
 *.tif
-*.csv
-*.geojson
 *.nc
 *.xls
 *.xlsx
