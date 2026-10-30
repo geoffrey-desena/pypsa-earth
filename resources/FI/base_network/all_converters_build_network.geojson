@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "all_converters_build_network",
+"features": [
+{"type":"Feature","properties":{"converter_id":"convert_4_10","bus0":10,"bus1":9},"geometry":{"type":"LineString","coordinates":[[24.552,60.2062],[24.551,60.2052]]}}
+]
+}

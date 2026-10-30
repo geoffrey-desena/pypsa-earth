@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "all_converters_build_network",
+"features": [
+{"type":"Feature","properties":{"converter_id":"convert_7_14","bus0":14,"bus1":13},"geometry":{"type":"LineString","coordinates":[[12.0088,55.4551],[12.0078,55.4541]]}},
+{"type":"Feature","properties":{"converter_id":"convert_26_44","bus0":44,"bus1":43},"geometry":{"type":"LineString","coordinates":[[10.4314,55.3959],[10.4304,55.3949]]}},
+{"type":"Feature","properties":{"converter_id":"convert_32_59","bus0":59,"bus1":61},"geometry":{"type":"LineString","coordinates":[[10.0623,57.07],[10.0643,57.072]]}},
+{"type":"Feature","properties":{"converter_id":"convert_32_60","bus0":60,"bus1":61},"geometry":{"type":"LineString","coordinates":[[10.0633,57.071],[10.0643,57.072]]}},
+{"type":"Feature","properties":{"converter_id":"convert_38_73","bus0":73,"bus1":72},"geometry":{"type":"LineString","coordinates":[[8.5085,55.4705],[8.5075,55.4695]]}},
+{"type":"Feature","properties":{"converter_id":"convert_124_228","bus0":228,"bus1":227},"geometry":{"type":"LineString","coordinates":[[10.5189,57.2336],[10.5179,57.2326]]}},
+{"type":"Feature","properties":{"converter_id":"convert_124_229","bus0":229,"bus1":227},"geometry":{"type":"LineString","coordinates":[[10.5199,57.2346],[10.5179,57.2326]]}},
+{"type":"Feature","properties":{"converter_id":"convert_126_233","bus0":233,"bus1":232},"geometry":{"type":"LineString","coordinates":[[9.1708,55.5001],[9.1698,55.4991]]}},
+{"type":"Feature","properties":{"converter_id":"convert_138_251","bus0":251,"bus1":250},"geometry":{"type":"LineString","coordinates":[[8.2079,55.7485],[8.2069,55.7475]]}},
+{"type":"Feature","properties":{"converter_id":"convert_154_272","bus0":272,"bus1":271},"geometry":{"type":"LineString","coordinates":[[8.7098,55.5358],[8.7088,55.5348]]}},
+{"type":"Feature","properties":{"converter_id":"convert_181_311","bus0":311,"bus1":310},"geometry":{"type":"LineString","coordinates":[[11.316,55.5324],[11.315,55.5314]]}},
+{"type":"Feature","properties":{"converter_id":"convert_189_326","bus0":326,"bus1":325},"geometry":{"type":"LineString","coordinates":[[9.5704,56.478],[9.5694,56.477]]}},
+{"type":"Feature","properties":{"converter_id":"convert_189_327","bus0":327,"bus1":328},"geometry":{"type":"LineString","coordinates":[[9.5714,56.479],[9.5724,56.48]]}},
+{"type":"Feature","properties":{"converter_id":"convert_189_330","bus0":330,"bus1":329},"geometry":{"type":"LineString","coordinates":[[9.5744,56.482],[9.5734,56.481]]}},
+{"type":"Feature","properties":{"converter_id":"convert_190_332","bus0":332,"bus1":331},"geometry":{"type":"LineString","coordinates":[[9.4706,56.6195],[9.4696,56.6185]]}},
+{"type":"Feature","properties":{"converter_id":"convert_190_333","bus0":333,"bus1":331},"geometry":{"type":"LineString","coordinates":[[9.4716,56.6205],[9.4696,56.6185]]}},
+{"type":"Feature","properties":{"converter_id":"convert_190_334","bus0":334,"bus1":331},"geometry":{"type":"LineString","coordinates":[[9.4726,56.6215],[9.4696,56.6185]]}},
+{"type":"Feature","properties":{"converter_id":"convert_201_357","bus0":357,"bus1":356},"geometry":{"type":"LineString","coordinates":[[9.2969,57.0047],[9.2959,57.0037]]}},
+{"type":"Feature","properties":{"converter_id":"convert_201_358","bus0":358,"bus1":356},"geometry":{"type":"LineString","coordinates":[[9.2979,57.0057],[9.2959,57.0037]]}},
+{"type":"Feature","properties":{"converter_id":"convert_353_519","bus0":519,"bus1":518},"geometry":{"type":"LineString","coordinates":[[10.0875,57.0967],[10.0865,57.0957]]}},
+{"type":"Feature","properties":{"converter_id":"convert_353_520","bus0":520,"bus1":518},"geometry":{"type":"LineString","coordinates":[[10.0885,57.0977],[10.0865,57.0957]]}}
+]
+}
