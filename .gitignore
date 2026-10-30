@@ -44,7 +44,7 @@ networks/
 notebooks
 notebooks/
 pypsa/
-resources/
+# resources/
 results/
 .snakemake/
 slurm
