@@ -40,7 +40,7 @@ netcdf4 = "*"
 libgdal-netcdf = "*"
 networkx = "*"
 scipy = "*"
-shapely = "!=2.0.4"
+shapely = ">=2"
 pre-commit = "*"
 matplotlib = "*"
 reverse-geocode = "*"
@@ -80,6 +80,8 @@ gurobi = "*"
 
 # Command Line Interface
 rich = "*"
+folium = ">=0.20.0,<0.21"
+pyproj = ">=3.8.0,<4"
 
 [environments]
 pypsa-earth = ["default"]
